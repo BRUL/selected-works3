@@ -9,4 +9,4 @@ tags:
 ---
 Made from solid hardwood, to be installed 120cm from floor level on a firm wall.
 
-![coat hook close-up](images/KH-thumb.JPG)
+![coat hook close-up](./images/KH-thumb.JPG)
