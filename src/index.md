@@ -1,10 +1,11 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
+title: Interieurarchitect
+metaTitle: Interieurarchitect in Gent
+postsHeading: Recent work
+archiveButtonText: All work
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+I am a Belgian Interior Architect.
+Focussed on imagining new possibilities for a variety of spaces and managing the building process.
+I also work together with [Niels Evenepoel](http://nielsevenepoel.be) over at [NEJD](https://nejd.be).
